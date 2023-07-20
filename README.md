@@ -5,5 +5,4 @@
   - Model=[model3.py](https://github.com/MohdJunaiduddin/SOI_23/blob/main/model3.ipynb)
   - Trial Model=[model.py](https://github.com/MohdJunaiduddin/SOI_23/blob/main/model.ipynb)
   - Download all files into same folder
-  ### Prior steps:
- - Make sure that all the downloaded files saved in same folder.
+  ### Model descriptions are explained in the [report](https://github.com/MohdJunaiduddin/SOI_23/blob/main/ml-report.pdf).
